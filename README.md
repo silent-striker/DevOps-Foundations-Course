@@ -2,8 +2,6 @@
 
 Welcome to the **DevOps Foundations Certification** course! This comprehensive program is designed to provide you with a solid understanding of DevOps principles and practices. This repository contains all materials organized by weekly sessions, each consisting its own set of additional resources, guides, helpful links, instructions, and hands-on practice exercises to guide your learning experience.
 
-The course is designed and taught by [**Zainuddin Saiyed**](https://linkedin.com/in/zain-saiyed).
-
 
 ## Course Structure
 The course consists of in-person sessions held every Tuesdays for four weeks, starting November 5. Each in-person session would include:
